@@ -9,7 +9,7 @@ import java.io.File;
 public class App {
 
     private static final String ROOT = new File("").getAbsolutePath();
-    private static final String PATH = "/ExemploInteliJ/JFlexExample/jflex";
+    private static final String PATH = "/[Projeto LFT] Compilador Lua/jflex";
     private static final String LEXER_FILE = "/Lexer.flex";
 
     private static void generateLexer(){

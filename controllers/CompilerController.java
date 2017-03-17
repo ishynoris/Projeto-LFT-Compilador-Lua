@@ -15,7 +15,7 @@ import java.util.Objects;
 
 public class CompilerController {
 
-    private final String PROJECT_NAME = "ExemploInteliJ";
+    private final String PROJECT_NAME = "[Projeto LFT] Compilador Lua";
     private final String WORKSPACE = "Workspace";
 
     private File defaultPath;
